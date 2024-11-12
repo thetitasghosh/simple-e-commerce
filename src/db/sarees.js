@@ -1,0 +1,17 @@
+export const testSaree = [
+  { id: 1, src: "/images/01.jpg", name: "saree" },
+  { id: 2, src: "/images/02.jpg", name: "saree" },
+  { id: 3, src: "/images/03.jpg", name: "saree" },
+  { id: 4, src: "/images/04.jpg", name: "saree" },
+  { id: 5, src: "/images/05.jpg", name: "saree" },
+  { id: 6, src: "/images/06.jpg", name: "saree" },
+  { id: 7, src: "/images/07.jpg", name: "saree" },
+  { id: 8, src: "/images/08.jpg", name: "saree" },
+  { id: 9, src: "/images/01.jpg", name: "saree" },
+  { id: 10, src: "/images/05.jpg", name: "saree" },
+  { id: 11, src: "/images/07.jpg", name: "saree" },
+  { id: 12, src: "/images/01.jpg", name: "saree" },
+  { id: 13, src: "/images/04.jpg", name: "saree" },
+  { id: 14, src: "/images/07.jpg", name: "saree" },
+  { id: 15, src: "/images/08.jpg", name: "saree" },
+];
